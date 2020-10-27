@@ -10,6 +10,7 @@
     - [Overview](#overview-1)
     - [Progress Everywhere](#progress-everywhere)
       - [Secondary effects](#secondary-effects)
+    - [Money? What Money?](#money-what-money)
   - ["Candy Crush" by King Digital (Coming soon)](#candy-crush-by-king-digital-coming-soon)
 - [Sources](#sources)
   - [Game Theory YouTube Channel](#game-theory-youtube-channel)
@@ -83,13 +84,33 @@ There are so many progress bars in Brawl Stars, it is sometimes silly. Here is a
 - Count down timer for the refreshing of Special Event Quests
 - Progress bar for next Brawl pass unlock.
 
-
 #### Secondary effects
 - waiting for new map events, makes you tap on the maps to get tokens, new tokens could unlock a box, opening a box could get you more coins, power points, gems, etc. getting more things could allow you to unlock a new level, or level up a character. Leveling up a character makes you want to play with that newly upgraded character.
+
+### Money? What Money?
+Brawl Stars does a great job of abstracting physical money and making it near impossible to track how much something in game actually costs in dollars and cents. 
+- Big Box = 30 gems = $1.99 (easy calculation because 30 gems is the lowest tier for gems)
+- Mega Box = 80 gems = $4.99 (easy calculation because 80 gems is the second lowest tier for gems)
+- Token Doubler = 40 gems = ~ 2-2.5 Dollars but really you can either buy 2 packs of $1.99 or one pack of $4.99. so really that 40 gems costs you 4-5 dollars.- 
+- Star Points (Cannot be bought?)
+- Coins (Can only be bought by Gems)  
+  - assuming most popular of 9.99/170  
+  - 20 gems / 150 coins = 7.5 coins per gem 
+  - 50 gems / 400 coins = 8 coins per gem (marked "6% EXTRA") 
+  - 140 gems / 1200 coins = 8.6 coins per gem (marked "14% EXTRA") 
+  - 280 gems / 2600 coins = 9.3 coins per gem (marked "23% EXTRA")
+- Gems (Can only be bought by Dollars)  
+  - 1.99/30 = 6.6 cents per gem  
+  - 4.99/80 = 6.2 cents per gem  
+  - 9.99/170 = 5.9 cents per gem (marked "Most Popular")  
+  - 19.99/360 = 5.6 cents per gem  
+  - 49.99/950 = 5.3 cents per gem  
+  - 99.99/2000 = 5 cents per gem (marked "Best Value") 
 
 
 ## "Candy Crush" by King Digital (Coming soon)
 https://www.youtube.com/watch?v=_BTGgCEFuQw
+
 
 # Sources
 ## Game Theory YouTube Channel
