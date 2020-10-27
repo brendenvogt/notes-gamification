@@ -1,2 +1,2 @@
-# notes-gamification
-Notes on gamification
+# Notes on Gamification
+
