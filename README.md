@@ -6,6 +6,9 @@
       - [1.b Simple Indicators](#1b-simple-indicators)
       - [1.c Push Notifications](#1c-push-notifications)
     - [Element 2. Identity](#element-2-identity)
+      - [2.a Names](#2a-names)
+      - [2.b Image](#2b-image)
+      - [2.c Groups](#2c-groups)
   - [Study of "Fortnite" by Epic Games](#study-of-fortnite-by-epic-games)
     - [Overview](#overview)
     - [Logical Progression](#logical-progression)
@@ -44,6 +47,7 @@ This is a collection of thoughts and design principles around gamification using
 ## Design Elements
 ### Element 1. Notifications and Indicators 
 Notifications and indicators employ the psychological phenomena that humans have an affinity for uncompleted tasks. Everyone with a phone could recognize the red indicator with a number over apps on your phone telling you that you have things to do, emails to open, messages to read, posts to like. We recognize it when we see it, and we are happy when that notification is gone, or that indicator is cleared.
+
 #### 1.a Progress Bars
 - Examples
   - Linked in, Google, etc for profile completeness.
@@ -65,10 +69,21 @@ Push notifications deliver a higher fidelity iteration on simple indicators. Pus
 
 ### Element 2. Identity
 Skins, Dance moves, Pets, blue check marks, creating and encouraging a sense of identity and community can drive engagement and revenue.
-- Example
-  - Fortnite: skins and dance moves.
+
+#### 2.a Names
+- Examples
+  - Usernames
+  - Gamer Tags
+
+#### 2.b Image
+- Examples
+  - Fortnite: Skins, Dance Moves
   - Brawl Stars: skins.
   - Among Us: pets, skins, and hats.
+
+#### 2.c Groups
+- Examples
+  - Clans
   - Instagram, Twitter, etc: Blue Checkmark.
 
 ## Study of "Fortnite" by Epic Games
