@@ -1,6 +1,11 @@
 - [Notes on Gamification](#notes-on-gamification)
   - [Overarching Principles](#overarching-principles)
   - [Design Elements](#design-elements)
+    - [Element 1. Notifications and Indicators](#element-1-notifications-and-indicators)
+      - [1.a Progress Bars](#1a-progress-bars)
+      - [1.b Simple Indicators](#1b-simple-indicators)
+      - [1.c Push Notifications](#1c-push-notifications)
+    - [Element 2. Identity](#element-2-identity)
   - [Study of "Fortnite" by Epic Games](#study-of-fortnite-by-epic-games)
     - [Overview](#overview)
     - [Logical Progression](#logical-progression)
@@ -11,41 +16,60 @@
     - [Progress Everywhere](#progress-everywhere)
       - [Secondary effects](#secondary-effects)
     - [Money? What Money?](#money-what-money)
-  - ["Candy Crush" by King Digital (Coming soon)](#candy-crush-by-king-digital-coming-soon)
+  - [Study of "Candy Crush" by King Digital](#study-of-candy-crush-by-king-digital)
+    - [Monetization methods](#monetization-methods)
+  - [Flappy Bird](#flappy-bird)
+    - [Primary Tactics](#primary-tactics)
+    - [Monetization Methods](#monetization-methods-1)
 - [Sources](#sources)
   - [Game Theory YouTube Channel](#game-theory-youtube-channel)
   - [Brainstorming](#brainstorming)
+
 # Notes on Gamification
-This is a collection of thoughts and design principles around gamification and examples from real world studies on leaders who employ gamification well in their products. This study pulls from psychology, game theory, and statistics in order to explain the phenomena.
+This is a collection of thoughts and design principles around gamification using examples from real world games and apps, and employing real psychological principles, game theory, and statistics to explain the efficacy of gamification methods.
 
 ## Overarching Principles
-- Create a sense of progression
-  - based on psychological rush from completing tasks.
-- Keep the player coming back for one more thing.
+- Principle 1. Create a sense of progression
+  - based on psychological rush and affinity from completing tasks.
+- Principle 2. Keep the player coming back for one more thing/turn.
   - Based on psychological need to finish uncompleted tasks.
-  - Theres always another progress bar or quest to complete in Brawl Stars.
+  - Progress bars, daily quests, such as experience bars, trophies bars, token bars as in Brawl Stars.
   - Always another social media thing to consume. Main Feed, Stories Feed, Browse Page, Direct Messages.
-  - Daily Challenges, Daily Quests, etc.
-- Everyone is a winner. Create a positive sum game from a zero sum game (Always make the player feel above average)
-  - Fortnite does this excellently by its battle royal game type. For those who want to play aggressive and risk getting killed quickly, they are satisfied because they want the joy of the action. If they die they hop back into another game and try all over. On the other hand if a player wants to play conservatively and make that one game last as long as possible they could play carefully and get in the top 3 or top 2. Everyone has a sense of being above average. Or getting more out of the game than the other players. In other words a positive sum game.
-
-
-- Create a sense of identity and community. Allow someone to grow their presence.
+- Principle 3. Everyone gets something. Everyone is above average. Create a positive sum game from a zero sum game.
+  - As in Fortnite's, aggressive players are satisfied by being likely to find the best guns, the best power ups, and use those to their advantage to beat other opponents. Conservative players are satisfied by playing carefully enough to maintain their play style. Some play styles focus on high kill death ratio, others focus on being high on the leader-board. The battle royal game is very useful for serving varieties of players. 
+- Principle 4. Create a sense of identity and community. Allow someone to grow their presence. 
   - Fortnite skins and dances
   - Among us pets and skins.
 
 ## Design Elements
-- Progress bars
+### Element 1. Notifications and Indicators 
+Notifications and indicators employ the psychological phenomena that humans have an affinity for uncompleted tasks. Everyone with a phone could recognize the red indicator with a number over apps on your phone telling you that you have things to do, emails to open, messages to read, posts to like. We recognize it when we see it, and we are happy when that notification is gone, or that indicator is cleared.
+#### 1.a Progress Bars
+- Examples
   - Linked in, Google, etc for profile completeness.
   - Long multi part forms on places like account sign up flows. Let the user know roughly how much longer it might take.
-- Task Indicators 
-  - red notification number as on iPhone apps
-  - Colorful circle around stories for Instagram
-  - Task clip board icon in Brawl Stars you have a task available
-- Skins, Dance moves, Pets.
-  - Fortnite skins and dance moves.
-  - Brawl Stars Skins.
-  - Among Us pets, skins, and hats.
+
+#### 1.b Simple Indicators
+These can be as simple as a dot, or a number, or an animation. These are used generally to say "hey tap me, I have something new to show". These type of indicators are most effectively used when the user has a clear understanding of where to see the new updated information. If I see a number above an app, and I tap the app, I expect to see another indicator of where the updates are (e.g. a few notifications on the notifications tab, and a few on the messages section of the app, etc.)
+- Examples
+  - Instagram: Colorful circle around stories, small dot under the tab bar item that has some update.
+  - Brawl Stars: Task indicators for each character showing you have a new challenges. 
+  - Apple: Numbers of notifications for an app.
+
+#### 1.c Push Notifications
+Push notifications deliver a higher fidelity iteration on simple indicators. Push notifications tell users/players that something very specific has occurred. Tapping on that notification directly leads them to the update. 
+- Examples
+  - Amazon: "Your items are almost delivered, tap to see where your items are on a map."
+  - Instagram: "User xyz just went live, tap to start watching"
+  - Candy Crush: "Your hearts have now refreshed, play where you left off."
+
+### Element 2. Identity
+Skins, Dance moves, Pets, blue check marks, creating and encouraging a sense of identity and community can drive engagement and revenue.
+- Example
+  - Fortnite: skins and dance moves.
+  - Brawl Stars: skins.
+  - Among Us: pets, skins, and hats.
+  - Instagram, Twitter, etc: Blue Checkmark.
 
 ## Study of "Fortnite" by Epic Games
 ### Overview
@@ -57,10 +81,12 @@ Fortnite a free game brought in $1.8 billion in revenue for Epic Games in 2019, 
   - Experience bar
   - Daily Quests
   - Progression
+
 ### Please Come Again
+Fortnite encourages its players to play one more round. Through daily challenges or leveling, filling a progress bar harkens on the psychological tendency to automatically pick up unfinished tasks and remember more unfinished tasks, than completed ones. 
 
 ### Always Above Average
-
+Fortnite serves two sets of players, the aggressive and the careful players. The aggressive players are satisfied by aggressively going for the high risk areas getting rewards first like the best guns, the best upgrades, etc. The second set of players are satisfied by achieving the high probability of staying alive until the final stages. The aggressive, high risk players have accepted the risk that they might die more frequently and quicker than most, but the payoff is much more exhilarating than the losses. The careful players are averse to loss, and therefor limit their exposure to risks that come with hot zones, and high traffic areas. Their payoff is focussed on the high kill:death ratio, or the high ranking on the leader-board in hopes that they survive till the very end. In short, Fortnite serves both sets of players in parallel. 
 
 
 ## Study of "Brawl Stars" by SuperCell
@@ -108,10 +134,42 @@ Brawl Stars does a great job of abstracting physical money and making it near im
   - 99.99/2000 = 5 cents per gem (marked "Best Value") 
 
 
-## "Candy Crush" by King Digital (Coming soon)
+## Study of "Candy Crush" by King Digital
 https://www.youtube.com/watch?v=_BTGgCEFuQw
+- lots of colors
+- lots of effects
+- repetitive music
+- drive sales for power ups after a loss
 
+### Monetization methods
+- Purchase of gold bars.
+  - $0.99/10 Gold (Weekly deal) = 9.9 cents per bar
+  - $1.99/10 Gold = 19.9 cents per bar
+  - $7.99/50 Gold = 15.98 cents per bar
+  - $14.99/100 Gold = 14.99 cents per bar
+  - $29.99/250 Gold = 11.99 cents per bar
+  - $54.99/500 Gold = 10.99 cents per bar
+  - $99.99/1000 Gold = 9.9 cents per bar
+  - $1.99/20 Gold, 1 special, 1h upgrade (Beginner Bundle)
+  - $9.99/50 Gold, 1 special, 1h special (Dainty Bundle)
+  - $19.99/100 Gold, 2 special, 12h special (Sweet Bundle)
+  - $39.99/250 Gold, 4 special, 1d special, 6hr infinite life
+  - $79.99/500 Gold, 10 special, 3d special, 12hr infinite life 
+  - $99.99/650 Gold, 13 special, 4d 4h special, 18hr infinite life
+- Advertisements for specials.
 
+---
+## Flappy Bird
+### Primary Tactics
+- Show current score front and center.
+- Highest score just off from view.
+- Punch sound effect when dying.
+
+### Monetization Methods
+- Removal of Ads
+- Different Birds
+
+---
 # Sources
 ## Game Theory YouTube Channel
 - [How Fortnite TRICKS Your Brain! | The SCIENCE... of Fortnite Battle Royale](https://www.youtube.com/watch?v=tqG74aI9t3Q)
