@@ -5,7 +5,7 @@
       - [1.a Progress Bars](#1a-progress-bars)
       - [1.b Simple Indicators](#1b-simple-indicators)
       - [1.c Push Notifications](#1c-push-notifications)
-    - [Element 2. Identity](#element-2-identity)
+    - [Element 2. Identity (Creating Community Everywhere, and a Hierarchy of Reputation)](#element-2-identity-creating-community-everywhere-and-a-hierarchy-of-reputation)
       - [2.a Names](#2a-names)
       - [2.b Image](#2b-image)
       - [2.c Groups](#2c-groups)
@@ -49,9 +49,12 @@ This is a collection of thoughts and design principles around gamification using
 Notifications and indicators employ the psychological phenomena that humans have an affinity for uncompleted tasks. Everyone with a phone could recognize the red indicator with a number over apps on your phone telling you that you have things to do, emails to open, messages to read, posts to like. We recognize it when we see it, and we are happy when that notification is gone, or that indicator is cleared.
 
 #### 1.a Progress Bars
+Progress bars convey completeness. Progress bars help suggest direction for a players actions, but it can also provide smaller bites of satisfaction for players when completed. Progress bars help users stay focussed on a clear task (or series of tasks), and help encourage the user to keep going. Shorter term progress bars should not be overly easy to complete, and not too difficult. General observed rule is make the user spend 3 - 4 times a normal session in order to complete a single small challenge marked with a progress bar. For example, normal game lasts a few minutes, set the estimated time to complete to around 15 minutes. Progress bars can and should also be staggered with longer term progress bars, to give a short term and longer term direction. An analogy would be, if the player is reading a book, set a challenge to be completed over the course of a few pages, and set a few goals over the course of the chapter, and then set the goals for a few chapters. 
 - Examples
   - Linked in, Google, etc for profile completeness.
   - Long multi part forms on places like account sign up flows. Let the user know roughly how much longer it might take.
+  - Brawl Stars: Daily challenges, Character leveling, Token for prizes boxes, upgrades etc.
+  - Apple: Apple Watch completing circles.
 
 #### 1.b Simple Indicators
 These can be as simple as a dot, or a number, or an animation. These are used generally to say "hey tap me, I have something new to show". These type of indicators are most effectively used when the user has a clear understanding of where to see the new updated information. If I see a number above an app, and I tap the app, I expect to see another indicator of where the updates are (e.g. a few notifications on the notifications tab, and a few on the messages section of the app, etc.)
@@ -67,12 +70,13 @@ Push notifications deliver a higher fidelity iteration on simple indicators. Pus
   - Instagram: "User xyz just went live, tap to start watching"
   - Candy Crush: "Your hearts have now refreshed, play where you left off."
 
-### Element 2. Identity
-Skins, Dance moves, Pets, blue check marks, creating and encouraging a sense of identity and community can drive engagement and revenue.
+### Element 2. Identity (Creating Community Everywhere, and a Hierarchy of Reputation)
+Identity is a relatively recent addition to gamification strategy due to the rise of internet based games, apps, and social media. Games like Sims is obviously a shining example of identity as its core mechanism, but others use it as a accessory feature to the main game. Fortnite was best known for its use of identity as its sole revenue stream selling emotes and skins (or vbucks to be converted into emotes and skins). Identity can drive a player to invest in the game through joining a micro-community (a term here relating to loose, ad-hoc ties to an unofficial groups based on commonalities.) and a sense of belonging. Identity can also serve to give players/users a hierarchy of reputation, such as with the blue checkmark on social media platforms, reputation points on stack overflow or forums, or having the best armor/upgrades that make you look cool. Reputation creates competition, and also serves as a reward in itself, for example you have the best armor because you are the best. Simply put, skins, dance moves, pets, hats, blue check marks, creating and encouraging a sense of identity and community can drive engagement and revenue.
 
 #### 2.a Names
 - Examples
-  - Usernames
+  - Usernames / Username color
+  - Profile Images
   - Gamer Tags
 
 #### 2.b Image
@@ -82,8 +86,9 @@ Skins, Dance moves, Pets, blue check marks, creating and encouraging a sense of 
   - Among Us: pets, skins, and hats.
 
 #### 2.c Groups
+Everyone wants to feel like they belong to a group. Even solo players want to belong to micro-communities and share common experiences. Groups can be official, unofficial, planned or unplanned. What is important with groups is to continue to drive players to a direction. Reputation in stack overflow helps understand a useful contributor vs an unknown contributor. The blue check-mark drives understanding that these people are famous, well known, and have a recognized voice.
 - Examples
-  - Clans
+  - Brawl Stars: Clans, friends, etc.
   - Instagram, Twitter, etc: Blue Checkmark.
 
 ## Study of "Fortnite" by Epic Games
