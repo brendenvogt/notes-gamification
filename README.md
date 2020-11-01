@@ -34,6 +34,7 @@ This is a collection of thoughts and design principles around gamification using
 ## Overarching Principles
 - Principle 1. Create a sense of progression
   - based on psychological rush and affinity from completing tasks.
+  - connected Design Elements: Progress bars, Quests, 
 - Principle 2. Keep the player coming back for one more thing/turn.
   - Based on psychological need to finish uncompleted tasks.
   - Progress bars, daily quests, such as experience bars, trophies bars, token bars as in Brawl Stars.
