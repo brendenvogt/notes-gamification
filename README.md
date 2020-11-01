@@ -29,7 +29,7 @@
   - [Brainstorming](#brainstorming)
 
 # Notes on Gamification
-This is a collection of thoughts and design principles around gamification using examples from real world games and apps, and employing real psychological principles, game theory, and statistics to explain the efficacy of gamification methods.
+This is a collection of thoughts and design principles around gamification using examples from real world games and apps. This also aims to employing real psychological principles, game theory, and statistics to explain the efficacy of gamification methods.
 
 ## Overarching Principles
 - Principle 1. Create a sense of progression
