@@ -20,7 +20,9 @@
       - [Secondary effects](#secondary-effects)
     - [Money? What Money?](#money-what-money)
   - [Study of "Candy Crush" by King Digital](#study-of-candy-crush-by-king-digital)
+    - [Overview](#overview-2)
     - [Monetization methods](#monetization-methods)
+    - [The Hook](#the-hook)
   - [Flappy Bird](#flappy-bird)
     - [Primary Tactics](#primary-tactics)
     - [Monetization Methods](#monetization-methods-1)
@@ -29,7 +31,7 @@
   - [Brainstorming](#brainstorming)
 
 # Notes on Gamification
-This is a collection of thoughts and design principles around gamification using examples from real world games and apps. This also aims to employing real psychological principles, game theory, and statistics to explain the efficacy of gamification methods.
+This is a collection of thoughts and design principles around gamification using examples from real world games and apps. This also aims to utilize psychological principles, game theory, and statistics to explain the efficacy of gamification methods.
 
 ## Overarching Principles
 - Principle 1. Create a sense of progression
@@ -156,6 +158,9 @@ Brawl Stars does a great job of abstracting physical money and making it near im
 
 
 ## Study of "Candy Crush" by King Digital
+### Overview
+Candy Crush Saga was released by King Digital in 2012. In 2018 its revenue averaged around 4.2 million dollars per day, and in November of 2019 the game has grossed over 5 billion in lifetime revenue.
+ 
 https://www.youtube.com/watch?v=_BTGgCEFuQw
 - lots of colors
 - lots of effects
@@ -178,6 +183,11 @@ https://www.youtube.com/watch?v=_BTGgCEFuQw
   - $79.99/500 Gold, 10 special, 3d special, 12hr infinite life 
   - $99.99/650 Gold, 13 special, 4d 4h special, 18hr infinite life
 - Advertisements for specials.
+
+### The Hook
+- Instant rewards.
+  - First few levels are virtually impossible to lose.
+  - Tutorials teach you everything you need to get started.
 
 ---
 ## Flappy Bird
