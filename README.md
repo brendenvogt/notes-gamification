@@ -1,5 +1,9 @@
 - [Notes on Gamification](#notes-on-gamification)
   - [Overarching Principles](#overarching-principles)
+    - [Principle 1. Create a sense of progression.](#principle-1-create-a-sense-of-progression)
+    - [Principle 2. Keep the player playing just one more game.](#principle-2-keep-the-player-playing-just-one-more-game)
+    - [Principle 3. Everyone gets something.](#principle-3-everyone-gets-something)
+    - [Principle 4. Create a sense of identity and community.](#principle-4-create-a-sense-of-identity-and-community)
   - [Design Elements](#design-elements)
     - [Element 1. Notifications and Indicators](#element-1-notifications-and-indicators)
       - [1.a Progress Bars](#1a-progress-bars)
@@ -8,7 +12,8 @@
     - [Element 2. Identity (Creating Community Everywhere, and a Hierarchy of Reputation)](#element-2-identity-creating-community-everywhere-and-a-hierarchy-of-reputation)
       - [2.a Names](#2a-names)
       - [2.b Image](#2b-image)
-      - [2.c Groups](#2c-groups)
+      - [2.c Groups Clans](#2c-groups-clans)
+    - [Element 3. Seasons or Chapters](#element-3-seasons-or-chapters)
   - [Study of "Fortnite" by Epic Games](#study-of-fortnite-by-epic-games)
     - [Overview](#overview)
     - [Logical Progression](#logical-progression)
@@ -23,7 +28,7 @@
     - [Overview](#overview-2)
     - [Monetization methods](#monetization-methods)
     - [The Hook](#the-hook)
-  - [Flappy Bird](#flappy-bird)
+  - [Study of Flappy Bird](#study-of-flappy-bird)
     - [Primary Tactics](#primary-tactics)
     - [Monetization Methods](#monetization-methods-1)
 - [Sources](#sources)
@@ -34,17 +39,48 @@
 This is a collection of thoughts and design principles around gamification using examples from real world games and apps. This also aims to utilize psychological principles, game theory, and statistics to explain the efficacy of gamification methods.
 
 ## Overarching Principles
-- Principle 1. Create a sense of progression
-  - based on psychological rush and affinity from completing tasks.
-  - connected Design Elements: Progress bars, Quests, 
-- Principle 2. Keep the player coming back for one more thing/turn.
-  - Based on psychological need to finish uncompleted tasks.
-  - Progress bars, daily quests, such as experience bars, trophies bars, token bars as in Brawl Stars.
-  - Always another social media thing to consume. Main Feed, Stories Feed, Browse Page, Direct Messages.
-- Principle 3. Everyone gets something. Everyone is above average. Create a positive sum game from a zero sum game.
-  - As in Fortnite's, aggressive players are satisfied by being likely to find the best guns, the best power ups, and use those to their advantage to beat other opponents. Conservative players are satisfied by playing carefully enough to maintain their play style. Some play styles focus on high kill death ratio, others focus on being high on the leader-board. The battle royal game is very useful for serving varieties of players. 
-- Principle 4. Create a sense of identity and community. Allow someone to grow their presence. 
-  - Fortnite skins and dances
+### Principle 1. Create a sense of progression. 
+- Root Principle
+  - Humans want to finish tasks, especially partially completed tasks.
+  - Humans release dopamine as a reward for the body after completing tasks.
+  - Humans love receiving dopamine.
+  - Progress -> Dopamine -> Happiness  
+- Business Purposes
+  - Drive engagement on new/unknown/lesser used features.
+  - Encourage discovery by rewarding players for side tasks. 
+- Design Elements
+  - Progress bars (Tokens, Gems, Power, Coins, Experience, Rank)
+  - Daily Quests/Tasks
+    - games won for a game type
+    - games won with a character
+    - damage given
+    - healing points given
+    - enemies defeated with character                        
+- Examples
+  - Driving engagement towards new/less used characters by creating a "Daily Task" on the character to win 5 games with that character. User finishes the quest and also gains enough experience/ tokens in order to unlock a loot box, the loot box gives the player enough power to upgrade the next character they want to play with.
+
+### Principle 2. Keep the player playing just one more game.
+Think about it, you are playing your favorite game, and you are about to quit, but before you leave, you see you are just one or 2 games away from leveling up your favorite character. That draw to play those last few games is exactly what this principle takes advantage of. We naturally have an affinity for unfinished tasks. 
+- Two very similar effects, Zeigarnik effect and Ovsiankina effect describe the tendency to remember and pick up unfinished or interrupted tasks more than completed ones.
+- Examples:
+  - Progress bars experience bars, trophies bars, token bars.
+  - Daily quests
+  - Social media update indicators. Main Feed, Stories Feed, Browse Page, Direct Messages.
+
+### Principle 3. Everyone gets something. 
+A zero sum game is one in which the outcome is determined by an allocation of an effectively limited amount of resources (2 players, 1 winner, 1 loser). A positive sum game is one where the outcome is determined by the allocation of an effectively unlimited amount of resources (2 players, any combination of winners and losers). Simply put, Zero sum is "I win, you lose". Positive sum is "We both win, I just win more".
+- Everyone is above average. Not everyone is looking for being first on the leaderboard, sometimes a good game/fight/challenge is what they are looking for.
+- Create a positive sum game from a zero sum game.
+- As in Fortnite's, aggressive players are satisfied by being likely to find the best guns, the best power ups, and use those to their advantage to beat other opponents. Conservative players are satisfied by playing carefully enough to maintain their play style. Some play styles focus on high kill death ratio, others focus on being high on the leader-board. The battle royal game is very useful for serving varieties of players. 
+
+### Principle 4. Create a sense of identity and community. 
+In the age of social media, so many games are introducing a social aspect as a driving factor for so many business processes. Arguably Fortnite's primary revenue stream hinders on the cool factor of the latest skins and emotes. 
+- Primary Aspects:
+  - Identity - Skins, emotes, pets, hats, colors.
+  - Language - A lot of the gaming industry is filled with slang or short hand. Like nicknames, its not really cool to give yourself one, its not cool either to make your own slang. It usually just happens. But crowd sourcing your slang by the community is obviously better and more authentic.
+  - Clans - "Clanning up" (Club, group, team) 
+- Examples 
+  - Fortnite skins and dances.
   - Among us pets and skins.
 
 ## Design Elements
@@ -87,12 +123,30 @@ Identity is a relatively recent addition to gamification strategy due to the ris
   - Fortnite: Skins, Dance Moves
   - Brawl Stars: skins.
   - Among Us: pets, skins, and hats.
+  - Other: Badges
 
-#### 2.c Groups
+#### 2.c Groups Clans
 Everyone wants to feel like they belong to a group. Even solo players want to belong to micro-communities and share common experiences. Groups can be official, unofficial, planned or unplanned. What is important with groups is to continue to drive players to a direction. Reputation in stack overflow helps understand a useful contributor vs an unknown contributor. The blue check-mark drives understanding that these people are famous, well known, and have a recognized voice.
 - Examples
   - Brawl Stars: Clans, friends, etc.
   - Instagram, Twitter, etc: Blue Checkmark.
+
+### Element 3. Seasons or Chapters
+Seasons are a clever way of introducing content in larger iterations rather than smaller ones. 
+- Why 
+  - Fresh content can attract new players, and keep old ones.
+  - Create more regular intervals for marketing.
+  - Create more progress for top players. (New characters to play as, new maps to play as, new quests to complete, etc.) 
+- Examples of updates during a new season release: 
+  - Reskin, rebrand
+  - New characters and powers
+  - New maps or game types
+  - New quests or challenges (both for maps, or game types, or characters etc.)
+  - DLC 
+- Examples of Games that use Seasons
+  - Fortnite
+  - Brawl Stars
+  - Modern Warfare and other FPS
 
 ## Study of "Fortnite" by Epic Games
 ### Overview
@@ -159,13 +213,20 @@ Brawl Stars does a great job of abstracting physical money and making it near im
 
 ## Study of "Candy Crush" by King Digital
 ### Overview
-Candy Crush Saga was released by King Digital in 2012. In 2018 its revenue averaged around 4.2 million dollars per day, and in November of 2019 the game has grossed over 5 billion in lifetime revenue.
- 
+Candy Crush Saga was released by King Digital in 2012. In 2018 its revenue averaged around 4.2 million dollars per day, and in November of 2019 the game has grossed over 5 billion in lifetime revenue. From this initial game, they have released variants such as:
+- Candy Crush Soda Saga
+- Candy Crush Jelly Saga
+- Candy Crush Friends Saga
+
+
+
 https://www.youtube.com/watch?v=_BTGgCEFuQw
 - lots of colors
 - lots of effects
 - repetitive music
 - drive sales for power ups after a loss
+- play throttling
+  - The hedonic treadmill, also known as hedonic adaptation, is the observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative events or life changes.
 
 ### Monetization methods
 - Purchase of gold bars.
@@ -190,7 +251,7 @@ https://www.youtube.com/watch?v=_BTGgCEFuQw
   - Tutorials teach you everything you need to get started.
 
 ---
-## Flappy Bird
+## Study of Flappy Bird
 ### Primary Tactics
 - Show current score front and center.
 - Highest score just off from view.
