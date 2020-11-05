@@ -29,6 +29,7 @@
     - [Monetization methods](#monetization-methods)
     - [The Hook](#the-hook)
   - [Study of Flappy Bird](#study-of-flappy-bird)
+    - [Overview](#overview-3)
     - [Primary Tactics](#primary-tactics)
     - [Monetization Methods](#monetization-methods-1)
 - [Sources](#sources)
@@ -252,6 +253,9 @@ https://www.youtube.com/watch?v=_BTGgCEFuQw
 
 ---
 ## Study of Flappy Bird
+### Overview
+Flappy bird is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen, under his game development company dotGears. The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them.
+
 ### Primary Tactics
 - Show current score front and center.
 - Highest score just off from view.
